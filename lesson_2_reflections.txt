@@ -1,0 +1,7 @@
+What happens when you initialize a repository? 
+git create a hidden folder for tarcking commits 
+Why do you need to do it?
+How is the staging area different from the working directory and the repository? 
+staging area contains files from the directory that r succetible to be in the repo
+What value do you think it offers?
+it let us choose what files to commit
